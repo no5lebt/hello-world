@@ -1,2 +1,3 @@
 # hello-world
 myfirst
+das ist doch nice! und gar nicht so schwer, wie ich dachte...
